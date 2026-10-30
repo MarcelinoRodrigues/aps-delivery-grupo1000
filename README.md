@@ -13,7 +13,7 @@ Marcelino Rodrigues do Nascimento
    ```
 2. Execute os testes:
    ```bash
-   npm test -- --runInBand
+   npm jest 
    ```
 
 ## Funcionalidades implementadas
